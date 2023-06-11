@@ -1,2 +1,2 @@
-#Demo - Change-color-react
-[Demo](https://shellaqi.github.io/change-color-react/)
+#Demo - Calculate-BMI
+[Demo](https://shellaqi.github.io/calculate-bmi-react/)
